@@ -10,6 +10,16 @@ Welcome to my personal exploration and learning journey with PyTorch! This repos
 - Experiment with different neural network architectures
 - Track personal growth and understanding of ML/DL concepts
 
+## 🚦 Repository Structure
+```
+journey-with-pytorch/
+│
+├── notebooks/             # Jupyter notebooks for learning
+├── projects/              # Implemented ML/DL projects
+├── experiments/           # Experimental code and research
+└── resources/             # Learning materials and references
+```
+
 ## 📚 Learning Paths
 ### Planned Learning Tracks
 - PyTorch Basics
@@ -27,16 +37,6 @@ Welcome to my personal exploration and learning journey with PyTorch! This repos
 - Matplotlib
 - Pandas
 - Google Colab (Optional)
-
-## 🚦 Repository Structure
-```
-journey-with-pytorch/
-│
-├── notebooks/             # Jupyter notebooks for learning
-├── projects/              # Implemented ML/DL projects
-├── experiments/           # Experimental code and research
-└── resources/             # Learning materials and references
-```
 
 ## 🌟 Current Focus
 - Building strong foundational knowledge in PyTorch
